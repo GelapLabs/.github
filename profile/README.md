@@ -104,7 +104,7 @@ Gelap is built on a set of core privacy modules that work together to deliver co
 - X (Twitter): [https://x.com/gelapmantle](https://x.com/gelapmantle)
 - Docs: [https://gelaps-mantle.gitbook.io/](https://gelaps-mantle.gitbook.io/)
 - Demo Video:
-- Pitch Deck: [![Pitch Deck](https://img.shields.io/badge/Pitch%20Deck-View%20on%20Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)](https://www.canva.com/design/DAG6zfwMtCU/YRAIpzi0i6A-kuRJ3sWYUw/view?utm_content=DAG6zfwMtCU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h9dda6ec850)
+- Pitch Deck: [Canva](https://www.canva.com/design/DAG6zfwMtCU/YRAIpzi0i6A-kuRJ3sWYUw/view?utm_content=DAG6zfwMtCU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h9dda6ec850)
 
 [Gelap Docs](https://gelaps-mantle.gitbook.io/docs)
 
