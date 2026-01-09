@@ -22,6 +22,8 @@ Introducing Gelap, the first confidential RWA Dark Pool and private execution la
 
 ## Problem
 
+#### Why does 50% of wall street trade in the dark, while DeFi forces everyone into the light?
+
 ![Bloomberg](bloomberg.png)
 
 1. **The TradFi Standard**
@@ -33,13 +35,15 @@ Introducing Gelap, the first confidential RWA Dark Pool and private execution la
 3. **The Disconnect**
    There is a fundamental mismatch between how institutions trade (privately) and how DeFi works (publicly).
 
-It makes transparency expensive
+_It makes transparency expensive_
 
 1. **For Retail**
    Retail traders lose billions to MEV bots. When your order is visible, bots front-run and sandwich your trade, forcing you to buy at a higher price.
 
 2. **For Institution**
    Institutions cannot trade RWAs (T-Bills, Private Credit) on-chain. Because a transparent ledger reveals their Net Asset Value (NAV) and trading strategies to competitors instantly.
+
+**Thus, RWAs onchain is not usable if strategies are public**
 
 ## Solution
 
