@@ -1,10 +1,10 @@
 # Gelap
 
-Introducing Gelap, the first confidential RWA Dark Pool and private execution layer built on the Mantle ecosystem. Gelap leverages a hybrid architecture combining Trusted Execution Environments (TEE) for real-time private matching with SP1 zkVM for verifiable correctness. This design allows users to utilize shielded vaults for depositing collateral, execute private swaps with zero MEV, and trade Real-World Assets (RWAs) like T-bills and private credit without exposing their positions or strategies on-chain. Gelap ensures market integrity by eliminating front-running and providing a compliance-ready infrastructure where institutional privacy meets decentralized settlement.broader Polkadot ecosystem.
+Introducing Gelap, the first confidential RWA Dark Pool and private execution layer built on the Mantle ecosystem. Gelap leverages SP1 zkVM for verifiable off-chain execution to ensure privacy and correctness. This design allows users to utilize shielded vaults for depositing collateral, execute private swaps with zero MEV, and trade Real-World Assets (RWAs) like T-bills and private credit without exposing their positions or strategies on-chain. Gelap ensures market integrity by eliminating front-running and providing a compliance-ready infrastructure where institutional privacy meets decentralized settlement.
 
 ## Why Built on Mantle?
 
-- **Modular Architecture for Privacy**: Mantle’s modular design provides the high-performance, low-cost data availability required to process heavy cryptographic proofs (SP1 zkVM) and TEE execution traces without checking scalability.
+- **Modular Architecture for Privacy**: Mantle’s modular design provides the high-performance, low-cost data availability required to process heavy cryptographic proofs (SP1 zkVM) efficiently without compromising scalability.
 
 - **Native RWA & Yield Alignment**: Mantle is a hub for yield-bearing assets (mETH) and RWAs (USDY). Gelap is built here to serve as the necessary privacy layer for these assets, allowing them to be traded securely and confidentially.
 
