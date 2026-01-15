@@ -90,8 +90,8 @@ Gelap is built on a set of core privacy modules that work together to deliver co
 
 |             Contract | Address                                                                                                                         |
 | -------------------: | :------------------------------------------------------------------------------------------------------------------------------ |
-| GelapShieldedAccount | [0x54EC23CBCE1A9d33F05C4d3d79Ec28Aff3c8ce8D](https://sepolia.mantlescan.xyz/address/0x54EC23CBCE1A9d33F05C4d3d79Ec28Aff3c8ce8D) |
-|      MockSP1Verifier | [0x79117dbB5A08B03cD796d06EdeEC6e0f2c554f4B](https://sepolia.mantlescan.xyz/address/0x79117dbB5A08B03cD796d06EdeEC6e0f2c554f4B) |
+| GelapShieldedAccount | [0x055e766e3c8c5fe971d1f8ee8cf74f7524d3ec57](https://sepolia.mantlescan.xyz/address/0x055e766e3c8c5fe971d1f8ee8cf74f7524d3ec57) |
+|      MockSP1Verifier | [0x3507dFEC95657859fF4ef0fa75ed22de1a1FE6DB](https://sepolia.mantlescan.xyz/address/0x3507dFEC95657859fF4ef0fa75ed22de1a1FE6DB) |
 
 ## Others
 
